@@ -20,6 +20,7 @@ header nav li {
 header nav li a {
 	color: #3D58A6;
 	font-size: 22px;
+	font-weight: bold;
 }
 header nav li a.active {
 	color: #EE4036;
