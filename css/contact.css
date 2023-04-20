@@ -1,0 +1,85 @@
+header img {
+	padding: 30px;
+}
+header img {
+	display: inline-block;
+	vertical-align: middle;
+}
+header nav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+
+}
+header nav li {
+	display: inline-block;
+	vertical-align: middle;
+
+	margin-right: 27px;
+}
+header nav li a {
+	color: #3D58A6;
+	font-size: 22px;
+	margin-top: 37;
+}
+header nav li a.active {
+	color: #EE4036;
+}
+section div {
+	background-color: #D9D9D9;
+	width: 1366px;
+	height: 569px;
+	padding-top: 31px;
+}
+section div h3 {
+	color: #3D58A6;
+	width: 251px;
+	height: 16px;
+	margin-left: 100px;
+	margin-top: 21px;
+	margin-bottom: 10px;
+	margin-right: 66px;
+}
+section div.details {
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 5px;
+	padding-left: 100px;
+	padding-right: 76px: ;
+}
+section div.map {
+	display: inline-block;
+	vertical-align: top;
+	width: 849px;
+	height: 465px;
+	margin-top: 52px;
+	margin-right: 100px;
+	margin-bottom: 52px;
+	
+
+}
+footer div {
+	padding-top: 45px;
+}
+footer div li.facebook {
+	padding-left: 104px;
+	padding-top: 69px;
+	padding-right: 35.6px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+footer div li.line {
+	padding-top: 70.67px;
+	padding-right: 30.17px;
+	padding-left: 35.6px;
+	display: inline-block;
+	vertical-align: middle;
+}
+footer div li.youtube {
+	padding-top: 99px;
+	padding-left: 30.17px;
+	padding-bottom: 38px;
+	display: inline-block;
+	vertical-align: middle;
+}

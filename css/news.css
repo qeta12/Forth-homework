@@ -1,0 +1,93 @@
+header img {
+	padding: 30px;
+}
+header img {
+	display: inline-block;
+	vertical-align: middle;
+}
+header nav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+
+}
+header nav li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+}
+header nav li a {
+	color: #3D58A6;
+	font-size: 22px;
+}
+header nav li a.active {
+	color: #EE4036;
+}
+section div h3 {
+	background-color: #3D58A6;
+	color:#FFFFFF;
+	font-size: 37px;
+	margin-top: 51.43px;
+	margin-right: 1290px;
+	margin-bottom: 7px;
+	margin-left: 30px;
+	width: 36px;
+	height: 32px;
+}
+section div h4 {
+	color:#3D58A6;
+	font-size: 22px;
+	margin-left: 1279px;
+	margin-bottom: 16px;
+	margin-left: 30px;
+
+}
+section div h2 {
+	display: inline-block;
+	width: 689px;
+	height: 23px;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-right: 647px;
+}
+.artilce-1 .image img {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 16px;
+	margin-left: 30px;
+	margin-bottom: 90px;
+	width: 270px;
+	height: 210px;
+}
+ .paragraph {
+	display: inline-block;
+	vertical-align: top;
+	width: 920px;
+	height: 147px;
+	margin-left: 40px;
+}
+footer div {
+	padding-top: 45px;
+}
+footer div li.facebook {
+	padding-left: 104px;
+	padding-top: 69px;
+	padding-right: 35.6px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+footer div li.line {
+	padding-top: 70.67px;
+	padding-right: 30.17px;
+	padding-left: 35.6px;
+	display: inline-block;
+	vertical-align: middle;
+}
+footer div li.youtube {
+	padding-top: 99px;
+	padding-left: 30.17px;
+	padding-bottom: 38px;
+	display: inline-block;
+	vertical-align: middle;
+}

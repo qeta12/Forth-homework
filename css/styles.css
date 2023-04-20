@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+header img {
+	padding: 30px;
+}
+header img {
+	display: inline-block;
+	vertical-align: middle;
+}
+header nav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+
+}
+header nav li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+}
+header nav li a {
+	color: #3D58A6;
+	font-size: 22px;
+}
+header nav li a.active {
+	color: #EE4036;
+	font-family: BPG Nino Mtavruli;
+}
+.banner-section {
+	width: 1170px;
+	height: 460px;
+	padding-top: 54px;
+	padding-left: 98px;
+	padding-right: 98px;
+	
+}
+.featured {
+	margin-top: 121px;
+	margin-left: 98px;
+	margin-right: 98px;
+}
+.featured h4 {
+	margin-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+
+}
+.featured .box {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	padding: 13px 13px 13px 40px;
+	display: inline-block;
+	vertical-align: top;
+}
+.featured .box h5 {
+	color: #3D58A6;
+	font-size: 22px;
+	text-transform: uppercase;
+	padding-bottom: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+.box-content img {
+	display: inline-block;
+	vertical-align: middle;
+	width: 100px;
+	height: 130.69px;
+	margin-right: 60px;
+}
+.box-content p {
+	display: inline-block;
+	vertical-align: middle;
+	width: 352px;
+	height: 120px;
+	font-family: BPG Ingiri Arian;
+}
+.featured .box-2 {
+	margin-left: 30px;
+}
+footer div li.facebook {
+	padding-left: 104px;
+	padding-top: 69px;
+	padding-right: 35.6px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+footer div li.line {
+	padding-top: 70.67px;
+	padding-right: 30.17px;
+	padding-left: 35.6px;
+	display: inline-block;
+	vertical-align: middle;
+}
+footer div li.youtube {
+	padding-top: 99px;
+	padding-left: 30.17px;
+	padding-bottom: 38px;
+	display: inline-block;
+	vertical-align: middle;
+}
